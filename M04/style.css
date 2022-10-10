@@ -5,3 +5,9 @@ body {
 nav {
  background-color: #add8e6; 
 }
+.column1, .column2, .column3 {
+   background-color: #add8e6; 
+}
+feature {
+  ackground-color: #add8e6; 
+}
