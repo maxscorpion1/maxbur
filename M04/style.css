@@ -1,23 +1,33 @@
+* {
+				font-family: Arial, Verdana, sans-serif;
+				color: #665544;
+				text-align: center;}
+			body {
+         https://pixnio.com/free-images/flora-plants/flowers/pink-flower.jpg;
+				width: 90%;
+				margin: 0 auto;}
+			#content {
+				overflow: auto;}
+			#nav, #feature, #footer {
+         background-color: #add8e6; 
+				margin: 1%;
+}
+			.column1, .column2, .column3 {
+         background-color: #add8e6; 
+				width: 31.3%;
+				float: left;
+				margin: 1%;
+}
+			
+			li {
+				display: inline;
+				padding: 0.5em;}
+			#nav, #footer {
+				background-color: #efefef;
+				padding: 0.5em 0;}
+			#feature, .article {
+        background-color: #add8e6; 
+				height: 10em;
+				margin-bottom: 1em;
 
-body {
-  https://pixnio.com/free-images/flora-plants/flowers/pink-flower.jpg;
 }
-feature {
-  #add8e6; 
-}
-column1{
-  #add8e6;
-}
-column2{
-   #add8e6;
-}
-column3{
-   #add8e6;
-}
-feature {
-  #add8e6;
-}
-nav {
- background-color: #add8e6; 
-}
-
