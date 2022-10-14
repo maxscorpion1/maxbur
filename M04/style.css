@@ -21,6 +21,7 @@ body {
 }
 			
 	li {
+		background-color: #efefef;
 		display: inline;
 		padding: 0.5em;}
 #nav, #footer {
