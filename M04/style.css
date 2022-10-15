@@ -40,10 +40,12 @@ body {
 		display: inline;
 		padding: 0.5em;}
 #nav, #footer {
-		 background-color: #add8e6; 
+		 background-color: #3ef35a
+		 
 	         padding: 0.5em 0;}
 #feature, .article {
-        background-color: #32f60a; 
+	background-color: #f3f84c
+        
 	height: 10em;
 	margin-bottom: 1em;
 
