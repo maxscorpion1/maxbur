@@ -16,8 +16,20 @@ body {
          background-color: #add8e6; 
 	margin: 1%;
 }
-.column1, .column2, .column3 {
+.column1 {
          background-color: #add8e6; 
+	width: 31.3%;
+	float: left;
+        margin: 1%;
+}
+.column2 {
+         background-color: #f034e6; 
+	width: 31.3%;
+	float: left;
+        margin: 1%;
+}
+.column3 {
+         background-color: #3c0af6; 
 	width: 31.3%;
 	float: left;
         margin: 1%;
