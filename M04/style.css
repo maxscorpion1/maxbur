@@ -31,21 +31,24 @@ margin: 1%;
 }
 .column3 {
          background-color: #3c0af6; 
+	 margin-right: 0%;
 	
 }
 			
 	li {
 		 background-color: #add8e6; 
 		display: inline;
-		padding: 0.5em; 0;}
+		padding: 0.5em;}
 #nav, #footer {
-		 background-color: #3ef35a
+	        
+		 background-color: #3ef35a;
 		 
 	         padding: 0.5em 0;}
 #feature, .article {
-	background-color: #f3f84c
+	 height: 10em;
+       margin-bottom: 1em;
+	background-color: #f3f84c;
         
-	height: 10em;
-	margin-bottom: 1em;
+	
 
 }
