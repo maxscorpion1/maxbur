@@ -37,7 +37,7 @@ margin: 1%;
 	li {
 		 background-color: #add8e6; 
 		display: inline;
-		padding: 0.5em;}
+		padding: 0.5em; 0;}
 #nav, #footer {
 		 background-color: #3ef35a
 		 
@@ -45,7 +45,7 @@ margin: 1%;
 #feature, .article {
 	background-color: #f3f84c
         
-	height: 50em;
+	height: 10em;
 	margin-bottom: 1em;
 
 }
