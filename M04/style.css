@@ -29,14 +29,14 @@ margin: 1%;
 	display: inline-block;
         width: 50.3%
         float: left; 
-        margin: 1%;
+        margin: 10%;
 }
 .column2 {
          background-color: #f034e6; 
 	 display: inline-block;
         width: 50.3%
         float: left; 
-        margin: 1%;
+        margin: 10%;
 }
 .column3 {
          background-color: #3c0af6; 
@@ -44,7 +44,7 @@ margin: 1%;
 	 display: inline-block;
         width: 50.3%
         float: left; 
-        margin: 1%;
+        margin: 10%;
 }
 			
 	li {
