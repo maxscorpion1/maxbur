@@ -27,14 +27,14 @@ margin: 1%;
 .column1 {
          background-color: #add8e6; 
 	display: inline-block;
-        width: 31.3%
+        width: 50.3%
         float: left; 
         margin: 1%;
 }
 .column2 {
          background-color: #f034e6; 
 	 display: inline-block;
-        width: 31.3%
+        width: 50.3%
         float: left; 
         margin: 1%;
 }
@@ -42,7 +42,7 @@ margin: 1%;
          background-color: #3c0af6; 
 	 margin-right: 0%;
 	 display: inline-block;
-        width: 31.3%
+        width: 50.3%
         float: left; 
         margin: 1%;
 }
