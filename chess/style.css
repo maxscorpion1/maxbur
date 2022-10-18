@@ -41,7 +41,7 @@ img {
 
 .white{
  border: 1px solid black;
- width: 10%;
+ width: 12%;
  height: 60px;
  background-color: white;
  float: left;
@@ -49,7 +49,7 @@ img {
 
 .black{
  border: 1px solid black;
- width: 10%;
+ width: 12%;
  height: 60px;
  background-color: #787878;
  float: left;
