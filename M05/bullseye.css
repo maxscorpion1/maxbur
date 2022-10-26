@@ -20,6 +20,9 @@ h2 {
  color: #000000;
  text-align: center;	
  }
+script{
+text-align:center;
+}
 #teacher {
 	float:right;
 	margin:0px 30px 0px 0px;}
