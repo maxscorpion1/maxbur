@@ -5,6 +5,8 @@ ul {
 }
 
 li a {
+  font-family: 'Trebuchet MS', sans-serif;
+  height: 100px:
   display: block;
   width: 500px;
   background-color: #dddddd;
