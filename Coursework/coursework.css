@@ -1,1 +1,27 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+   font-family: 'Trebuchet MS', sans-serif;
+  height: 80px:
+}
+h1 {
+    font-size: 50px;
+  text-align:  "center";
+   font-family: 'Trebuchet MS', sans-serif;
+  margin-right: 150px;
+  
+}
 
+li a {
+  font-size: 70px;
+  font-family: 'Trebuchet MS', sans-serif;
+  height: 80px:
+  display: block;
+  width: 80px;
+  background-color: #dddddd;
+}
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
