@@ -18,7 +18,7 @@ body {
 }
 .column1, .column2, .column3 {
 display: inline-block;
-width: 30%
+width: 30%;
 float: left; 
 margin: 1%;	
 } 
