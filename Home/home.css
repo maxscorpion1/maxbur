@@ -6,6 +6,7 @@ ul {
   height: 80px:
 }
 h1 {
+  display: inline-block;
     font-size: 50px;
  text-align:  right;
    font-family: 'Trebuchet MS', sans-serif;
