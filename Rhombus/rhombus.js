@@ -91,5 +91,33 @@ rLine +="</p>";
 document.getElementById("downRight").innerHTML = rLine;
 }
 
+function downLeft(pHeight, pColorEven, pColorOdd, pSymbol){
+var rLine ="";
+for (i=pHeight;i > 0;i--){
+rLine +="<p>";
+//Fill in the left side of every row with spaces or blanks
+for (x=1; x<=pHeight-i;x++) {
+	//rLine +="-";
+	rLine +="<span class='space'>" + pSymbol +"</span>";
+}
+//Create each line on the Rhombus
+for(j=x;j<=pHeight;j++){
+
+//Is the position even or odd so we change the color
+if (j%2)
+//even
+rLine +="<span style='color:" + pColorEven + ";'>" + pSymbol +"</span>";
+else
+//odd
+rLine +="<span style='color:" + pColorOdd + ";'>" + pSymbol +"</span>";
+
+}
+rLine +="</p>";
+// console.log(rLine);
+
+}
+
+document.getElementById("downLeft").innerHTML = rLine;
+}
 
 
